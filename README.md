@@ -17,7 +17,7 @@ Setelah kalian berhasil mengakses programnya, buatlah fitur-fitur berikut :
 
 ## Demonstrasi
 ### Nomer 1-2
-![3](https://user-images.githubusercontent.com/77567907/167248544-cad506ed-dd25-4c9e-b5f0-39d5822d17cd.gif)
+![1-2](https://user-images.githubusercontent.com/77567907/167248547-c0430b7e-2b1c-48ec-95de-c39680588e66.gif)
 
 ### Nomer 3
-![1-2](https://user-images.githubusercontent.com/77567907/167248547-c0430b7e-2b1c-48ec-95de-c39680588e66.gif)
+![3](https://user-images.githubusercontent.com/77567907/167248544-cad506ed-dd25-4c9e-b5f0-39d5822d17cd.gif)
